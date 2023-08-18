@@ -18,6 +18,7 @@ Links to privacy policies of third party service providers used in the app
 
 Google Play Services    https://www.google.com/policies/privacy/
 AdMob                   https://support.google.com/admob/answer/6128543
+Yandex Advertising Network — https://yandex.com/legal/confidential/
 
 
 2.) Sharing Your Information
@@ -81,6 +82,15 @@ Online resources:
 * Google Terms of Service      https://policies.google.com/terms
 * Google Privacy Policy        https://policies.google.com/privacy
 
+3.3 Analytic platforms 
+
+Those partners allow the Developer to use analytics in the applications. Partners usually 
+collect data with their own SDKs (Software Development Kits). Here is a list of the partners 
+that have analytical SDKs in Developer’s applications, with links to their own privacy policies
+which will provide more information about what data the partners use and how:
+
+Firebase — https://policies.google.com/privacy
+Google Analytics — https://policies.google.com/privacy
 
 4. Security
 
